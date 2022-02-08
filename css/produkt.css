@@ -1,0 +1,93 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    background-color: #25252A;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+.line{
+    width: 70%;
+    height: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3px;
+    background-color: #00ff00;
+}
+
+.produkt img{
+    width: 300px;
+}
+
+.produkt figure{
+    margin: 10px;
+}
+
+footer{
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 2rem;
+    border: 5px solid black;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+
+
+.info{
+    text-align: center;
+    font-size: 1.3rem;
+    color: white;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+}
+
+.opis{
+    text-align: center;
+    font-size: 1.3rem;
+    color: white;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+}
+
+h3{
+    text-align: center;
+    font-size: 1.3rem;
+    color: white;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+}
+
+#link-wplata{
+    text-align: center;
+    margin-top: 10%;
+    color: rgb(0, 255, 170);
+    font-size: 1.5rem;
+    font-family: 'Supermercado One', cursive;
+}
+
+#podstrona{
+    text-decoration: none;
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Supermercado One', cursive;
+}
+
+.l-inpost{
+    color: #00ff00;
+}
